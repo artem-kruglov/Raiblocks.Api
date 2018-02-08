@@ -1,6 +1,6 @@
 # RaiBlocks - Blockchain Integration API
 
-Слой интеграции с криптоволютой RaiBlocks. Реализован в рамках участия в рамках конкурса [RaiBlocks - Blockchain Integration API](https://streams.lykke.com/Project/ProjectDetails/raiblocks-blockchain-integration-api) в соответствии с требованиями версии [1.0.0-rc-1](https://docs.google.com/document/d/1KVd-2tg-Ze5-b3kFYh1GUdGn9jvoo7HFO3wH_knpd3U/).
+Слой интеграции с криптовалютой RaiBlocks. Реализован в рамках участия в конкурсе [RaiBlocks - Blockchain Integration API](https://streams.lykke.com/Project/ProjectDetails/raiblocks-blockchain-integration-api) в соответствии с требованиями версии [1.0.0-rc-1](https://docs.google.com/document/d/1KVd-2tg-Ze5-b3kFYh1GUdGn9jvoo7HFO3wH_knpd3U/).
 
 Проект выполенен в соответствии с [шабоном Lykke](https://github.com/LykkeCity/lykke.dotnettemplates/tree/master/Lykke.Service.LykkeService).
 
