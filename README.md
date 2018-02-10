@@ -13,7 +13,7 @@
  
  Получение репозитория:
 ```
-git clone https://github.com/mao29/Raiblocks.ApiService.git
+git clone https://github.com/artem-kruglov/Raiblocks.Api.git
 cd ./Raiblocks.ApiService
 git submodule init
 git submodule update
@@ -29,7 +29,7 @@ dotnet run
 
 # Environment setup
 
-Путь к файлу настроек указывается в переменной среды "SettingUrl". В ней необходимо указать путь до [конфигурационного файла](https://github.com/mao29/Raiblocks.ApiService/blob/dev/Lykke.Service.Raiblocks.Api/src/Lykke.Service.RaiblocksApi/appsettings.json).
+Путь к файлу настроек указывается в переменной среды "SettingUrl". В ней необходимо указать путь до [конфигурационного файла](https://github.com/artem-kruglov/Raiblocks.Api/blob/dev/Lykke.Service.Raiblocks.Api/src/Lykke.Service.RaiblocksApi/appsettings.json).
 
 Где в поле DataConnString необходимо указать строку подключения к Azure Table Storage. В поле NodeURL адррес [RPC Raiblocks](https://github.com/clemahieu/raiblocks/wiki/RPC-protocol).
 
@@ -37,6 +37,6 @@ dotnet run
 
 Для хранения данных используется Azure Table Storage.
 
-![Схема данных](https://github.com/mao29/Raiblocks.ApiService/blob/dev/Lykke.Service.Raiblocks.Api/ClassDiagram.gif)
+![Схема данных](https://github.com/artem-kruglov/Raiblocks.Api/blob/dev/Lykke.Service.Raiblocks.Api/ClassDiagram.gif)
 
 
