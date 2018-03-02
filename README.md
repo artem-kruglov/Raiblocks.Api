@@ -42,4 +42,4 @@ To storage a data is used Azure Table Storage.
 
  - [RaiBlocks Integration Sign Service](https://github.com/artem-kruglov/Raiblocks.Sign/tree/dev)
 
- - [Test private RaiBlocks node with custom generis block](https://github.com/artem-kruglov/raiblocks/tree/testnet)
+ - [Test private RaiBlocks node with a custom generis block](https://github.com/artem-kruglov/raiblocks/tree/testnet)
