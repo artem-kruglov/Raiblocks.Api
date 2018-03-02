@@ -6,14 +6,13 @@ The project was made in compliance with [Lykke template](https://github.com/Lykk
 
 # Prerequisites
 
-- [Visual Studio 2017](https://www.microsoft.com/net/core#windowsvs2017)
 - [ASP.NET Core 2](https://docs.microsoft.com/en-us/aspnet/core/getting-started)
 
 # Running
  
 Getting the repository:
 ```
-git clone https://github.com/artem-kruglov/Raiblocks.Api.git
+git clone -b dev https://github.com/artem-kruglov/Raiblocks.Api.git
 cd ./Raiblocks.ApiService
 git submodule init
 git submodule update
