@@ -38,4 +38,8 @@ To storage a data is used Azure Table Storage.
 
 ![Data Scheme](https://github.com/artem-kruglov/Raiblocks.Api/blob/dev/Lykke.Service.Raiblocks.Api/ClassDiagram.gif)
 
+# See also
 
+ - [RaiBlocks Integration Sign Service](https://github.com/artem-kruglov/Raiblocks.Sign/tree/dev)
+
+ - [Test private RaiBlocks node with custom generis block](https://github.com/artem-kruglov/raiblocks/tree/testnet)
