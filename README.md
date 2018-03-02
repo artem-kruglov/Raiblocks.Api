@@ -13,13 +13,15 @@ The project was made in compliance with [Lykke template](https://github.com/Lykk
 Getting the repository:
 ```
 git clone -b dev https://github.com/artem-kruglov/Raiblocks.Api.git
-cd ./Raiblocks.ApiService
+cd ./Raiblocks.Api
 git submodule init
 git submodule update
 ```
 
 Running:
+
 ```
+export SettingsUrl=appsettings.json
 cd ./Lykke.Service.Raiblocks.Api/src/Lykke.Service.RaiblocksApi
 dotnet restore
 dotnet run
