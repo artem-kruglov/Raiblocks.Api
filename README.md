@@ -38,7 +38,7 @@ DataConnString field contains connection string to Azure Table Storage. NodeURL 
 
 Azure Table Storage is used to store data.
 
-![Data Scheme](https://github.com/artem-kruglov/Raiblocks.Api/blob/dev/Lykke.Service.Raiblocks.Api/ClassDiagram.gif)
+![Data Scheme](https://github.com/artem-kruglov/Raiblocks.Api/blob/dev/ClassDiagram.gif)
 
 # See also
 
